@@ -1,0 +1,22 @@
+OPC Connector V0.13.1 · compilación 20261018.17
+Dysco Exploration and Production · Field Tools / cloudLOGGER SCADA
+Windows 10/11 x64 · portable
+
+INICIO
+Extrae todo el ZIP en una carpeta y ejecuta OPC Connector.exe.
+Conserva las carpetas que lo acompañan: no muevas solo el ejecutable.
+Crea una conexión, configura sus parámetros y pulsa Guardar conexión.
+En Tags importa o crea variables según el driver; revisa tipo, dirección y permisos.
+Configura OPC DA/UA y la API REST opcional; inicia la adquisición y publicación.
+La aplicación debe permanecer abierta. No incluye servicio de Windows.
+OPC DA requiere .NET Framework 4.8 y OPC Core Components por separado.
+
+DOCUMENTACIÓN Y SOPORTE
+https://github.com/DyscoEP/opc-connector
+https://github.com/DyscoEP/opc-connector/issues
+No publiques credenciales ni información de instalaciones en los reportes.
+
+LICENCIAS
+Las fuentes propias de la aplicación permanecen privadas.
+Consulta LICENSE.txt, THIRD-PARTY-NOTICES.txt.
+La distribución incluye bibliotecas de terceros con sus licencias originales.
